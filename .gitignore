@@ -1,0 +1,6 @@
+#terraform
+.terraform*
+*.exe
+.terraform.lock.hcl
+tf.plan
+.hcl
